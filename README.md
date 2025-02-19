@@ -5,6 +5,7 @@ Stripe Payment Setup
 Robust Authentication System
 JWT
 User Signup & Login
+Design with Tailwind
 Coupon Code System
 Admin Dashboard
 Sales Analytics
