@@ -1,17 +1,17 @@
 E-commerce 
 Project [Repo Link](https://github.com/Mayosama9/e-commerce)
 
-MongoDB & Redis Integration
-Stripe Payment Setup
-Robust Authentication System
-JWT
-User Signup & Login
-Design with Tailwind
-Coupon Code System
-Admin Dashboard
-Sales Analytics
-Cart & Checkout Process
-Caching with Redis
+- MongoDB & Redis Integration
+- Stripe Payment Setup
+- Robust Authentication System
+- JWT
+- User Signup & Login
+- Design with Tailwind
+- Coupon Code System
+- Admin Dashboard
+- Sales Analytics
+- Cart & Checkout Process
+- Caching with Redis
 
 ### Setup .env file
 
